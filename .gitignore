@@ -1,0 +1,28 @@
+#   OS
+
+.DS_Store
+
+#   IDE
+
+*.sublime-*
+.idea/
+
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+bower_components
+.elasticbeanstalk/
+.ebextensions/
+build/
+
